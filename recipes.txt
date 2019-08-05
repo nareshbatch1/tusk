@@ -6,3 +6,6 @@ khher
 pasta
 
 chicken fry
+
+
+Recipes done with current version
